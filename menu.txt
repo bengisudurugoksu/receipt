@@ -1,0 +1,14 @@
+Product          Price(TL)
+
+Sushi            150.99
+Kebap            95.99
+Lahmacun         20.25
+Pide             58.90
+Döner            55.90
+Kola             18.50
+Fanta            18.50
+Ayran            15.00
+Su                5.00
+Sufle            45.50
+Cheesecake       40.25
+Tiramisu         40.25
